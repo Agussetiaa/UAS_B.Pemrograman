@@ -1,6 +1,6 @@
 # UAS_B.Pemrograman 
 # Dokumentasi
 ### PDF
-[KLIK DISINI](https://drive.google.com/file/d/1XoeBQ82JA-1qf5GXzDUFEgBUdksTHOr8/view?usp=sharing)
+[KLIK DISINI](file:///G:/My%20Drive/UAS%20bahasa%20pemrograman.pdf)
 ### YOUTUBE
 [KLIK DISINI]()
