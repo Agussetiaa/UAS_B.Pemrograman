@@ -23,9 +23,8 @@ def main():
             daftar_nilai = dn.tambah_data(daftar_nilai, data)
         elif pilihan == "2":
             # ubah data
-            if data[0] in data.keys():
-                data_lama = inp.input_data()
-                data_baru = inp.input_data()
+            data_lama = inp.input_data()
+            data_baru = inp.input_data()
             daftar_nilai = dn.ubah_data(daftar_nilai, data_baru, data_lama)
         elif pilihan == "3":
             # hapus data
